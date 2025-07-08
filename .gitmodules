@@ -1,0 +1,3 @@
+[submodule "latent_space_analysis"]
+	path = latent_space_analysis
+	url = https://github.com/NataliiaMolch/nnu-net-latent-space-analysis.git
