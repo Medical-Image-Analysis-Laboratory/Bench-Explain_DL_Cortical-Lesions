@@ -34,7 +34,11 @@ This study addresses the critical need for robust and explainable cortical lesio
 
 ### Analysis Framework
 
+
 - **`latent_space_analysis/`**: Analyze the 3D nnU-Net bottleneck features in relationship with categorical and continuous features.
+=======
+- **`metrics.py`**: Used for model robustness and calibration evaluation.
+main
 
 <!-- The analysis framework will include:
 - Cross-site performance benchmarking
