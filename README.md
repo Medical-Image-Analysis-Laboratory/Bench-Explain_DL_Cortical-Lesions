@@ -92,14 +92,14 @@ Key findings from our benchmarking study:
 
 ## 🔍 Performance Explanation
 
-*[Explanation analysis to be added by [Colleague Name]]*
+The latent space analysis was used to get insight into the model performance. 
+The proposed analysis is desciben in a corresponding [README](latent_space_analysis/readme.md).
 
 Our explanation framework investigates:
-- [ ] Site-specific performance factors
-- [ ] Lesion characteristic impact on detection
-- [ ] Model confidence and uncertainty quantification
-- [ ] Feature attribution analysis
-- [ ] Cross-domain adaptation mechanisms
+- Site-specific performance factors
+- Model confidence and uncertainty quantification
+- Feature attribution analysis
+- Cross-domain adaptation mechanisms
 
 ## 📚 Citation
 
