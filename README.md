@@ -34,14 +34,14 @@ This study addresses the critical need for robust and explainable cortical lesio
 
 ### Analysis Framework
 
-*[Post-hoc analysis modules to be added]*
+- **`metrics.py`**: Used for model robustness and calibration evaluation.
 
-The analysis framework will include:
+<!-- The analysis framework will include:
 - Cross-site performance benchmarking
 - Lesion detection sensitivity analysis  
 - Explanation of model performance factors
 - Statistical validation across domains
-- Visualization tools for research findings
+- Visualization tools for research findings -->
 
 ## 🐳 Trained Model Access
 
