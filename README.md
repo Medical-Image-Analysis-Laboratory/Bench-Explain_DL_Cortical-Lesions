@@ -34,14 +34,14 @@ This study addresses the critical need for robust and explainable cortical lesio
 
 ### Analysis Framework
 
-*[Post-hoc analysis modules to be added]*
+- **`latent_space_analysis/`**: Analyze the 3D nnU-Net bottleneck features in relationship with categorical and continuous features.
 
-The analysis framework will include:
+<!-- The analysis framework will include:
 - Cross-site performance benchmarking
 - Lesion detection sensitivity analysis  
 - Explanation of model performance factors
 - Statistical validation across domains
-- Visualization tools for research findings
+- Visualization tools for research findings -->
 
 ## 🐳 Trained Model Access
 
@@ -93,7 +93,7 @@ Key findings from our benchmarking study:
 ## 🔍 Performance Explanation
 
 The latent space analysis was used to get insight into the model performance. 
-The proposed analysis is desciben in a corresponding [README](latent_space_analysis/readme.md).
+The proposed analysis is desciben in a corresponding [README](https://github.com/NataliiaMolch/nnu-net-latent-space-analysis/blob/main/readme.md).
 
 Our explanation framework investigates:
 - Site-specific performance factors
